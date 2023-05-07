@@ -2,7 +2,7 @@
 
 Junior full stack web developper from **Lyon, France** 🇫🇷 🥖
 
-- 💻 I’m currently working on <a href="https://42lyon.fr/" target="_BLANK">42 Lyon</a> post-common core projects
+- 💻 I’m currently working on <a href="https://42lyon.fr/" target="_BLANK">42</a> post-common core projects
 - 🌐 How to reach me: 
 	- Portfolio - In progress
 	- Email - alexandre.tourretpro@gmail.com
