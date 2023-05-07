@@ -1,6 +1,6 @@
 # Hey I'm Alexandre Tourret <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Junior full stack web developper from **Lyon, France** 🥖
+Junior full stack web developper from **Lyon, France** 🇫🇷 🥖
 
 - 💻 I’m currently working on 42 post-common core projects
 - 🌐 How to reach me: 
