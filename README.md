@@ -1,6 +1,6 @@
 # Alexandre Tourret
 
-**Backend Engineer** @ [Fanatics Live](https://www.fanatics-live.com/) · Lyon, France
+**Backend Engineer** @ [Fanatics Live](https://www.fanatics.live) · Lyon, France
 
 Building scalable backend systems with Elixir & GraphQL.
 
@@ -33,4 +33,4 @@ Currently focused on backend engineering, working primarily with Elixir and Grap
 
 [![Portfolio](https://img.shields.io/badge/atourret.fr-000000?style=flat&logo=safari&logoColor=white)](https://atourret.fr/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexandre.tourretpro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TONPROFIL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atouret/)
